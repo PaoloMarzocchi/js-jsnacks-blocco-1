@@ -9,11 +9,11 @@ let sum = 0;
 }
 
 console.log(sum); */
-let i = 1;
-while ( i <= 10) {
+let i = 0;
+while ( i < 10) {
     input = Number(prompt(`Inserisci il numero per 10 volte (${i}) `));
     numbers.push(input)
-    sum += input;
+    sum += numbers[i];
     i++;
 }
 
