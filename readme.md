@@ -27,3 +27,10 @@ dove N è un numero indicato dall’utente.
 Snack 7:
 Chiedi un numero di 4 cifre all’utente
 e calcola la somma di tutte le cifre che compongono il numero.
+
+
+Pomeridiano:
+
+1- Gioco di indovinello:
+Genera un numero casuale compreso tra 1 e 100. 
+Chiedi all'utente di indovinare il numero. Dopo ogni tentativo, fornisci un suggerimento se il numero inserito è maggiore o minore del numero segreto. Fornisci anche il numero totale di tentativi effettuati.
