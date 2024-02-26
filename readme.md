@@ -24,4 +24,6 @@ Snack 6:
 Stampa il cubo dei primi N numeri,
 dove N è un numero indicato dall’utente.
 
-
+Snack 7:
+Chiedi un numero di 4 cifre all’utente
+e calcola la somma di tutte le cifre che compongono il numero.
